@@ -1,0 +1,31 @@
+product_id,product_sku,product_name,product_category,unit_cost_cogs,base_list_price,target_gross_margin_pct
+1,PRD-E101,UltraBook Pro Laptop 15-inch,Electronics,42000,56000,25
+2,PRD-E102,Noise-Cancelling Wireless Headphones,Electronics,4500,7500,40
+3,PRD-E103,Curved Gaming Monitor 27-inch,Electronics,14000,19500,28.2
+4,PRD-E104,Smartwatch Fitness Tracker GPS,Electronics,2800,4999,43.9
+5,PRD-E105,Mechanical Ergonomic Keyboard,Electronics,2200,3800,42.1
+6,PRD-E106,High-Speed Wi-Fi 6 Router,Electronics,1900,3200,40.6
+7,PRD-A201,Men Premium Cotton Formal Shirt,Apparel,650,1499,56.6
+8,PRD-A202,Women Embroidered Ethnic Kurti,Apparel,800,1899,57.8
+9,PRD-A203,Classic Slim-Fit Denim Jeans,Apparel,900,2199,59
+10,PRD-A204,Breathable Athletic Running Shoes,Apparel,1200,2799,57.1
+11,PRD-A205,Pure Wool Winter Cardigan,Apparel,1100,2499,55.9
+12,PRD-A206,Water-Resistant Commuter Backpack,Apparel,750,1699,55.8
+13,PRD-H301,Digital Air Fryer 4.5L Multi-Preset,Home & Kitchen,3200,5499,41.8
+14,PRD-H302,Tri-Ply Stainless Steel Cookware Set,Home & Kitchen,2400,4299,44.1
+15,PRD-H303,UV + UF Alkaline Water Purifier,Home & Kitchen,6500,9999,35
+16,PRD-H304,High-Suction Robotic Vacuum Cleaner,Home & Kitchen,11500,17999,36.1
+17,PRD-H305,750W Heavy-Duty Mixer Grinder,Home & Kitchen,1800,3199,43.7
+18,PRD-H306,Organic Cotton Queen Bedding Set,Home & Kitchen,950,1999,52.4
+19,PRD-O401,Ergonomic Lumbar Executive Chair,Office Supplies,5200,8999,42.2
+20,PRD-O402,Motorized Adjustable Standing Desk,Office Supplies,13000,21500,39.5
+21,PRD-O403,All-in-One Duplex Laser Printer,Office Supplies,8500,13499,37
+22,PRD-O404,Heavy-Duty Cross-Cut Paper Shredder,Office Supplies,2600,4499,42.2
+23,PRD-O405,A4 Copier Paper Bulk Box (5 Reams),Office Supplies,850,1350,37
+24,PRD-O406,Aluminum Adjustable Laptop Stand,Office Supplies,550,1199,54.1
+25,PRD-B501,Organic Vitamin C Radiant Face Serum,Health & Beauty,250,899,72.1
+26,PRD-B502,Sonic Electric Toothbrush Smart Timer,Health & Beauty,850,1899,55.2
+27,PRD-B503,Pure Cold-Pressed Ayurvedic Hair Oil,Health & Beauty,180,599,69.9
+28,PRD-B504,Ultrasonic Aroma Oil Diffuser & Humidifier,Health & Beauty,620,1499,58.6
+29,PRD-B505,Broad Spectrum SPF 50 Gel Sunscreen,Health & Beauty,220,649,66.1
+30,PRD-B506,Whey Protein Isolate 1kg Chocolate,Health & Beauty,1450,2799,48.1

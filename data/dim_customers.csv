@@ -1,0 +1,101 @@
+customer_id,customer_code,customer_name,customer_segment,customer_type,acquisition_date,primary_region_id
+1,CUST-0001,Tanvi Sen,Small Business,New,2024-01-28,19
+2,CUST-0002,Rahul Bansal,Small Business,New,2024-05-11,9
+3,CUST-0003,Sanjay Sundaram,Small Business,New,2023-05-08,4
+4,CUST-0004,Rajesh Sen,Consumer,Returning,2023-08-07,13
+5,CUST-0005,Ritu Agarwal,Corporate,New,2023-10-30,19
+6,CUST-0006,Ananya Singh,Corporate,Returning,2024-09-06,5
+7,CUST-0007,Ishaan Saxena,Consumer,Returning,2024-11-16,5
+8,CUST-0008,Ritu Sundaram,Consumer,New,2023-02-19,2
+9,CUST-0009,Meera Saxena,Small Business,Returning,2023-12-08,4
+10,CUST-0010,Vikram Pillai,Consumer,Returning,2024-01-30,20
+11,CUST-0011,Priya Saxena,Small Business,Returning,2024-03-15,8
+12,CUST-0012,Rajesh Patel,Consumer,Returning,2023-01-12,1
+13,CUST-0013,Naveen Kulkarni,Consumer,New,2023-02-13,8
+14,CUST-0014,Manish Nair,Corporate,Returning,2023-03-12,12
+15,CUST-0015,Shreya Jain,Corporate,Returning,2023-11-20,22
+16,CUST-0016,Tanvi Bansal,Consumer,Returning,2023-12-03,19
+17,CUST-0017,Arjun Deshmukh,Consumer,New,2023-12-10,14
+18,CUST-0018,Siddharth Singh,Corporate,Returning,2024-07-30,14
+19,CUST-0019,Gaurav Prasad,Small Business,Returning,2024-07-24,3
+20,CUST-0020,Siddharth Reddy,Corporate,Returning,2024-07-11,14
+21,CUST-0021,Shreya Malhotra,Corporate,Returning,2023-03-12,5
+22,CUST-0022,Pooja Gupta,Corporate,New,2023-02-15,10
+23,CUST-0023,Kavita Iyer,Small Business,New,2023-01-13,12
+24,CUST-0024,Rajesh Singh,Corporate,Returning,2023-07-27,19
+25,CUST-0025,Rohan Pillai,Consumer,New,2023-06-12,15
+26,CUST-0026,Sunil Pillai,Consumer,Returning,2023-04-21,8
+27,CUST-0027,Naveen Jain,Corporate,New,2023-10-13,6
+28,CUST-0028,Siddharth Sundaram,Small Business,New,2023-08-10,18
+29,CUST-0029,Gaurav Sundaram,Consumer,Returning,2023-05-30,1
+30,CUST-0030,Bhavna Patel,Consumer,Returning,2023-11-02,15
+31,CUST-0031,Sneha Iyer,Consumer,New,2023-08-10,18
+32,CUST-0032,Priya Gupta,Corporate,New,2023-05-11,18
+33,CUST-0033,Siddharth Saxena,Consumer,New,2023-09-25,23
+34,CUST-0034,Shreya Kulkarni,Corporate,Returning,2023-06-13,17
+35,CUST-0035,Sneha Joshi,Corporate,New,2023-02-23,7
+36,CUST-0036,Ishaan Singh,Small Business,Returning,2023-06-20,3
+37,CUST-0037,Rahul Mehta,Small Business,Returning,2023-02-16,13
+38,CUST-0038,Zoya Kulkarni,Consumer,Returning,2024-09-10,20
+39,CUST-0039,Siddharth Sundaram,Consumer,New,2023-01-15,7
+40,CUST-0040,Manish Nair,Consumer,Returning,2024-07-27,7
+41,CUST-0041,Amit Kulkarni,Consumer,New,2024-02-28,5
+42,CUST-0042,Bhavna Singh,Small Business,Returning,2024-05-16,8
+43,CUST-0043,Amit Malhotra,Consumer,Returning,2023-12-06,25
+44,CUST-0044,Aditi Jain,Small Business,New,2023-06-21,13
+45,CUST-0045,Neha Saxena,Consumer,Returning,2023-08-18,7
+46,CUST-0046,Ritu Jain,Consumer,Returning,2023-02-18,15
+47,CUST-0047,Vikram Chatterjee,Corporate,New,2024-07-14,20
+48,CUST-0048,Rohan Patel,Corporate,Returning,2024-08-23,4
+49,CUST-0049,Deepak Bansal,Consumer,Returning,2024-02-03,3
+50,CUST-0050,Siddharth Sharma,Consumer,Returning,2023-07-11,24
+51,CUST-0051,Sneha Jain,Small Business,Returning,2023-07-30,24
+52,CUST-0052,Rajesh Reddy,Consumer,New,2024-11-22,14
+53,CUST-0053,Pooja Mehta,Small Business,Returning,2024-04-09,1
+54,CUST-0054,Sunil Singh,Small Business,Returning,2024-04-09,17
+55,CUST-0055,Zoya Joshi,Small Business,Returning,2023-08-13,23
+56,CUST-0056,Deepak Bansal,Consumer,Returning,2024-11-09,25
+57,CUST-0057,Sneha Malhotra,Small Business,Returning,2024-10-21,8
+58,CUST-0058,Divya Sharma,Corporate,Returning,2024-02-05,5
+59,CUST-0059,Shreya Patel,Corporate,Returning,2023-05-15,23
+60,CUST-0060,Rohan Singh,Small Business,Returning,2023-04-06,22
+61,CUST-0061,Meera Jain,Consumer,Returning,2024-06-01,10
+62,CUST-0062,Gaurav Sundaram,Small Business,Returning,2023-08-20,19
+63,CUST-0063,Pooja Joshi,Small Business,New,2023-06-23,9
+64,CUST-0064,Pranav Pillai,Small Business,Returning,2024-07-30,12
+65,CUST-0065,Ritu Jain,Small Business,New,2023-09-29,13
+66,CUST-0066,Divya Pillai,Corporate,Returning,2023-07-13,18
+67,CUST-0067,Pranav Singh,Consumer,Returning,2024-07-30,13
+68,CUST-0068,Zoya Nair,Consumer,Returning,2023-09-10,4
+69,CUST-0069,Sunil Sen,Corporate,New,2023-06-04,1
+70,CUST-0070,Neha Bansal,Corporate,Returning,2024-06-02,11
+71,CUST-0071,Divya Prasad,Consumer,Returning,2023-06-24,19
+72,CUST-0072,Manish Sundaram,Small Business,Returning,2023-02-27,6
+73,CUST-0073,Ishaan Deshmukh,Small Business,New,2024-02-06,8
+74,CUST-0074,Manish Reddy,Small Business,Returning,2023-02-08,6
+75,CUST-0075,Sunil Verma,Corporate,New,2024-08-26,10
+76,CUST-0076,Ananya Gupta,Consumer,Returning,2023-08-16,2
+77,CUST-0077,Naveen Reddy,Small Business,Returning,2024-06-29,16
+78,CUST-0078,Divya Sundaram,Consumer,New,2024-01-25,11
+79,CUST-0079,Siddharth Chatterjee,Consumer,Returning,2024-11-25,19
+80,CUST-0080,Naveen Pillai,Corporate,Returning,2023-10-20,25
+81,CUST-0081,Pranav Sen,Corporate,Returning,2023-04-28,10
+82,CUST-0082,Manish Sundaram,Consumer,New,2024-02-08,10
+83,CUST-0083,Kavita Malhotra,Consumer,New,2024-11-13,6
+84,CUST-0084,Shreya Pillai,Small Business,Returning,2024-05-02,7
+85,CUST-0085,Varun Reddy,Consumer,Returning,2023-02-23,23
+86,CUST-0086,Bhavna Gupta,Small Business,Returning,2023-11-09,10
+87,CUST-0087,Tanvi Joshi,Small Business,Returning,2023-04-09,2
+88,CUST-0088,Kavita Kulkarni,Consumer,Returning,2023-12-12,9
+89,CUST-0089,Varun Sharma,Consumer,Returning,2024-08-08,12
+90,CUST-0090,Varun Sundaram,Consumer,Returning,2023-12-19,20
+91,CUST-0091,Rohan Agarwal,Small Business,New,2024-08-02,18
+92,CUST-0092,Priya Kulkarni,Small Business,New,2023-04-10,12
+93,CUST-0093,Tanvi Mehta,Consumer,Returning,2024-07-01,11
+94,CUST-0094,Zoya Nair,Corporate,New,2023-02-24,24
+95,CUST-0095,Bhavna Singh,Consumer,Returning,2023-09-13,10
+96,CUST-0096,Shreya Sundaram,Consumer,New,2024-11-15,25
+97,CUST-0097,Bhavna Sundaram,Consumer,New,2023-06-21,4
+98,CUST-0098,Rajesh Joshi,Corporate,New,2023-12-20,5
+99,CUST-0099,Priya Joshi,Consumer,Returning,2023-03-03,12
+100,CUST-0100,Gaurav Joshi,Small Business,New,2023-08-19,7

@@ -1,0 +1,26 @@
+region_id,region_name,state_name,city_name,city_tier,regional_manager,target_quarterly_revenue
+1,North,Delhi NCR,New Delhi,Tier-1,Vikram Rathore,2500000
+2,North,Uttar Pradesh,Noida,Tier-1,Vikram Rathore,1800000
+3,North,Uttar Pradesh,Lucknow,Tier-2,Vikram Rathore,1200000
+4,North,Rajasthan,Jaipur,Tier-2,Vikram Rathore,1400000
+5,North,Punjab,Chandigarh,Tier-2,Vikram Rathore,1100000
+6,South,Karnataka,Bengaluru,Tier-1,S. Anantharaman,3200000
+7,South,Tamil Nadu,Chennai,Tier-1,S. Anantharaman,2200000
+8,South,Telangana,Hyderabad,Tier-1,S. Anantharaman,2400000
+9,South,Kerala,Kochi,Tier-2,S. Anantharaman,950000
+10,South,Tamil Nadu,Coimbatore,Tier-2,S. Anantharaman,850000
+11,West,Maharashtra,Mumbai,Tier-1,Rajesh K. Gokhale,3800000
+12,West,Maharashtra,Pune,Tier-1,Rajesh K. Gokhale,2100000
+13,West,Gujarat,Ahmedabad,Tier-2,Rajesh K. Gokhale,1600000
+14,West,Gujarat,Surat,Tier-2,Rajesh K. Gokhale,1300000
+15,West,Maharashtra,Nagpur,Tier-2,Rajesh K. Gokhale,900000
+16,East,West Bengal,Kolkata,Tier-1,Sourav Chatterjee,1900000
+17,East,Odisha,Bhubaneswar,Tier-2,Sourav Chatterjee,950000
+18,East,Bihar,Patna,Tier-2,Sourav Chatterjee,800000
+19,East,Jharkhand,Ranchi,Tier-3,Sourav Chatterjee,650000
+20,East,Assam,Guwahati,Tier-3,Sourav Chatterjee,550000
+21,Central,Madhya Pradesh,Indore,Tier-2,Manoj Deshmukh,1100000
+22,Central,Madhya Pradesh,Bhopal,Tier-2,Manoj Deshmukh,900000
+23,Central,Chhattisgarh,Raipur,Tier-3,Manoj Deshmukh,700000
+24,Central,Madhya Pradesh,Jabalpur,Tier-3,Manoj Deshmukh,500000
+25,Central,Madhya Pradesh,Gwalior,Tier-3,Manoj Deshmukh,450000
